@@ -2,7 +2,7 @@
   "name": "convergent-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node .",
     "test": "mocha test",
@@ -50,5 +50,8 @@
     "rethinkdbdash": "^2.1.9",
     "tv": "^5.0.1",
     "vision": "^4.0.1"
+  },
+  "engines": {
+    "node": "5.x"
   }
 }
