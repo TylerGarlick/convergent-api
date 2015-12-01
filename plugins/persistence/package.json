@@ -1,0 +1,7 @@
+{
+  "name": "persistence",
+  "dependencies": [
+    "configuration"
+  ],
+  "hodgepodge": true
+}
